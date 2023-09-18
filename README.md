@@ -14,4 +14,5 @@ The objectives of this study are as follows:
 The dataset used in this research was selected based on its availability, accessibility, and licensing requirement. Mendeley was identified as a reliable source for such datasets. The dataset that was ultimately selected was the “Opinions dataset” from Mendeley[1] which consists of user reviews for devices from nine mobile brands namely, Lenovo, iPhone, Micromax, Vivo, Redmi, Panasonic, Motorola, Oppo, and Nokia. Combining the data resulted in a total of 161,192 records and 10 columns. Among these columns, only the review text and rating fields are considered, as the other feature columns add little value to this research. The analysis will be specifically done with the Lenovo subset which has 26,600 records.
 
 References
+
 [1] Sheikh, A. (2021) 'Opinions dataset', Mandeley Data, V1. doi: 10.17632/wzxkx2kr6n.1.
